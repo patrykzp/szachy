@@ -3,11 +3,16 @@
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="styles/main.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>szachy polska</title>
     </head>
     <body>
-        
+        <header>
+            test
+            <?php
+            
+            ?>
+        </header>
     </body>
 </html>
